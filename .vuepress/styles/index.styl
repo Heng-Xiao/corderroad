@@ -1,0 +1,44 @@
+// 通过检查，查看元素样式声明
+.dark .content__default code {
+  background-color: rgba(58,58,92,0.7);
+  color: #fff;
+}
+// 侧边栏样式
+// 左侧侧边栏标题
+.sidebar > .sidebar-links > li > a.sidebar-link {
+  font-size: 1.2em !important;
+  margin-left: -1em;
+}
+// 右侧文章标题导航栏
+a.sidebar-link {
+  font-size: 14px !important;
+}
+// 左侧边栏标题字体大小样式
+.sidebar-heading span{
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.sidebar-heading.open span{
+  font-weight: bold;
+}
+
+
+// 左侧边栏展开文章的字体大小
+a.sidebar-link.active {
+  color: #19b2e6 !important;
+  font-size: 14px !important;
+  background: #ecf4fa !important;
+}
+.sidebar-sub-headers a.sidebar-link {
+  margin: 0 1rem 0 1rem !important;
+}
+// 分组的透明度修改，未生效
+.sidebar-group.is-sub-group > .sidebar-heading:not(.clickable){
+  opacity: 1;
+}
+/*
+// 去除左上角标题，作者，标签等
+.page .page-title {
+  display: none;
+}*/
+
