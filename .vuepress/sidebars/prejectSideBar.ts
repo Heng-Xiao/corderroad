@@ -12,7 +12,7 @@ export default [
         collapsable: true,
         children: [
             {title: "SSM",collapsable: true,children:["SSM医院预约挂号系统.md","SSM图书管理系统.md","SSM宠物领养系统.md","SSM酒店后台管理系统.md","SSM旅游民宿预定系统.md","SSM二手书交易系统.md"]},
-            {title: "SpringBoot",collapsable: true,children:["学生成绩管理系统.md","学生宿舍管理系统","学校教务管理系统","Springboot旅游网","Springboot客户管理系统","SpringBoot仓库管理系统","SpringBoot酒店管理系统","SpringBoot在线商城系统","SpringBoot大学校园论坛","SpringBoot在线考试系统","SpringBoot汽车租赁系统","SpringBoot图书管理借阅系统","SpringBoot电影分析可视化大屏","疫情大数据可视化平台"]},
+            {title: "SpringBoot",collapsable: true,children:["学生成绩管理系统.md","学生宿舍管理系统","学校教务管理系统","Springboot旅游网","Springboot客户管理系统","SpringBoot仓库管理系统","SpringBoot酒店管理系统","SpringBoot图书管理系统","SpringBoot在线商城系统","SpringBoot大学校园论坛","SpringBoot在线考试系统","SpringBoot汽车租赁系统","SpringBoot竞赛报名系统","SpringBoot个人博客系统","SpringBoot图书管理借阅系统","SpringBoot健康信息管理系统","SpringBoot医药销售管理系统","SpringBoot房屋租赁管理系统","SpringBoot电影分析可视化大屏","疫情大数据可视化平台","SpringBoot在线考试系统非前后端分离",]},
         ],
     },
     {
